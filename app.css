@@ -1,0 +1,35 @@
+body {
+  background-color: aqua;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+header {
+  background-color: blue;
+  color: azure;
+  font-size: x-large;
+}
+nav {
+  background-color: blueviolet;
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+Section {
+  background-color: beige;
+}
+
+/*#about {
+  background-color: rgb(213, 39, 39);
+}
+/*#Selektorer,
+#prop {
+  background-color: rgb(190, 147, 60);
+}
+*/
+
+.codebox {
+  background-color: rgb(42, 165, 50);
+}
+nav > ul {
+  list-style-type:lower-greek;
+  color: rgb(231, 12, 44);
+}
